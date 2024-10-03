@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jan-Frantisek"
+  given-names: "Kubat"
+  orcid: "https://orcid.org/0000-0001-9160-3277"
+title: "Semi-Variogram Analysis for Artificial Rainfall Collected in Point Measurements"
+version: 2.0.4
+date-released: 2024-09-01
+url: "https://github.com/storm-fsv-cvut/SemiVariogram"
