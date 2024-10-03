@@ -4,7 +4,7 @@ authors:
 - family-names: "Jan-Frantisek"
   given-names: "Kubat"
   orcid: "https://orcid.org/0000-0001-9160-3277"
-title: "Semi-Variogram Analysis for Artificial Rainfall Collected in Point Measurements"
+title: "Point-Based Semi-Variogram Analysis for Artificial Rainfall"
 version: 0.0.1
 date-released: 2024-09-01
 url: "https://github.com/storm-fsv-cvut/SemiVariogram"
