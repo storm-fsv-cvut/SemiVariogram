@@ -5,6 +5,6 @@ authors:
   given-names: "Kubat"
   orcid: "https://orcid.org/0000-0001-9160-3277"
 title: "Semi-Variogram Analysis for Artificial Rainfall Collected in Point Measurements"
-version: 2.0.4
+version: 0.0.1
 date-released: 2024-09-01
 url: "https://github.com/storm-fsv-cvut/SemiVariogram"
